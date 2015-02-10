@@ -1,0 +1,17 @@
+{"id":"703", 
+    "username":"12918", 
+    "first_name":"Perfect ", 
+    "last_name":"Titiati", 
+    "phone_number":"", 
+    "group":"GHS",
+    "role":"District Supervisor", 
+    "title":"", 
+    "modified_by":"1", 
+    "created_at":"2014-12-02 04:12:56", 
+    "updated_at":"2014-12-02 16:24:56", 
+    "myfac":"Tsanakpe HC",
+    "calendar":[], 
+    "courses":
+            {"Family Planning for People Living with HIV":
+                {"topics":{"Family Planning Methods for People Living with HIV\/AIDS (PLWH)\\u00a0":{"last_accessed":"2014-12-03 10:44:53", "time_taken":"15m", "percentcomplete":100, "activities":1}}, "attempts":"0", "score":"Not taken", "time_taken":"15m", "last_accessed":"Dec 03, 2014", "percentcomplete":100}, "Essential Newborn Care":{"topics":{"Newborn Care Following Birth: Later Care":{"last_accessed":"2014-12-03 10:42:45", "time_taken":"4h 37m", "percentcomplete":100, "activities":2}, "Infant Feeding":{"last_accessed":"2014-12-03 10:36:40", "time_taken":"35m", "percentcomplete":100, "activities":5}, "Newborn Care Following Birth: Immediate Care":{"last_accessed":"2014-12-03 10:38:58", "time_taken":"2h 9m", "percentcomplete":100, "activities":1}}, "attempts":"0", "score":"Not taken", "time_taken":"7h 21m", "last_accessed":"Dec 03, 2014", "percentcomplete":100}}, "targets":{"ed9aa33f81e5c861076f2b9a14cde0ce":{"id":1, "category":"Other", "type":"None", "target":0, "achieved":"3", "justification":"justified", "start":"", "end":""}}, "pivot":{"facility_id":"199", "user_id":"703"}}]}, {"name":"E.P. Clinic Dzemeni", "id":"200", "district":"South Dayi", "nurses":[{"id":"356", "username":"10383", "first_name":"Gloria", "last_name":"Afetor", "phone_number":null, "group":"GHS", "role":"Nurse", "title":"Community Health Nurse", "modified_by":"1", "created_at":"2014-05-18 09:05:50", "updated_at":"2014-05-23 05:11:21", "myfac":"E.P. Clinic Dzemeni", "calendar":{"0b299bd1d42a468cf7b30f0d487bf602":{"title":"CWC Outreach at Jamah Area", "location":"Jamah Area", "type":"CWC Outreach", "start":"1418025614000", "end":"1418227214000"}}, "courses":{"Family Planning Counselling":{"topics":{"Family Planning Counseling\\n":{"last_accessed":"2014-12-09 22:50:30", "time_taken":"23h 26m", "percentcomplete":93, "activities":13}, "{\"EN_US\": \"Family Planning Counseling Skills \"}":{"last_accessed":"2014-12-09 23:06:22", "time_taken":"19h 44m", "percentcomplete":85, "activities":13}, "Family Planning Counseling Skills \\r\\n\\u00a0\\r\\n":{"last_accessed":"2014-12-09 23:10:55", "time_taken":"8h 9m", "percentcomplete":100, "activities":2}}, "attempts":"0", "score":"Not taken", "time_taken":"51h 19m", "last_accessed":"Dec 09, 2014", "percentcomplete":89}}, "targets":{"ed9aa33f81e5c861076f2b9a14cde0ce":{"id":"1", "category":"Other", "type":"None", "target":0, "achieved":0, "justification":"", "start":"", "end":""}, "73890f3ff21d36055971bc1837d1e378":{"id":"2", "category":"Other", "type":"None", "target":0, "achieved":0, "justification":"", "start":"", "end":""}}, "pivot":{"facility_id":"200", "user_id":"356"}}, {"id":"357", "username":"10396", "first_name":"Beauty", "last_name":"Agglina", "phone_number":null, "group":"GHS", "role":"Nurse", "title":"Community Health Nurse", "modified_by":"1", "created_at":"2014-05-18 09:05:51", "updated_at":"2014-05-23 05:11:21", "myfac":"E.P. Clinic Dzemeni", "calendar":[], "courses":[], "targets":[], "pivot":{"facility_id":"200", "user_id":"357"}
+    }
